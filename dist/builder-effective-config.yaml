@@ -1,0 +1,13 @@
+directories:
+  output: dist
+  buildResources: build
+appId: com.example.network-printer-scanner
+productName: Network Printer Scanner
+files:
+  - filter:
+      - '*.js'
+      - '*.html'
+      - '*.css'
+win:
+  target: portable
+electronVersion: 13.6.9

@@ -1,0 +1,12 @@
+{
+  "name": "network-printer-scanner",
+  "version": "1.0.0",
+  "description": "A web application to simulate scanning for network printers",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
